@@ -16,6 +16,9 @@ body{
     background-color: #333333;
     /* color: white; */
 }
+.container{
+    max-width: 1300px;
+}
 .cvName{
     margin:40px;
 }
