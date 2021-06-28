@@ -2,11 +2,17 @@ body{
     box-sizing: border-box;
     
 }
+.vertical_line {
+    border-left: thick solid #0e0d0d;
+  }
+.padding{
+    padding-left: 20px;
+}
 .container2{
     width:64%;
     float: right;
 }
-.col-sm-3{
+.info{
     background-color: #333333;
     color: white;
 }
