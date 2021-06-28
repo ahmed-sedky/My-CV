@@ -98,10 +98,10 @@ hr{
     }
     .tec ul li{
         line-height: 35px;
-        font-size: 9px;
+        font-size: 25px;
     }
     .contacts ul li, .contacts .media div{
-        font-size: 10px;
+        font-size: 25px;
     }
 }
 /* Medium devices (tablets, 768px and up)*/
@@ -122,10 +122,10 @@ hr{
     }
     .tec ul li{
         line-height: 35px;
-        font-size: 15px;
+        font-size: 25px;
     }
     .contacts ul li, .contacts .media div{
-        font-size: 16px;
+        font-size: 25px;
     }
 }
 
@@ -148,13 +148,19 @@ hr{
     }
     .tec ul li{
         line-height: 35px;
-        font-size: 18px;
+        font-size: 25px;
     }
     .contacts ul li, .contacts .media div{
-        font-size: 18px;
+        font-size: 25px;
     }
 }
-
+.tec ul li{
+    line-height: 35px;
+    font-size: 25px;
+}
+.contacts ul li, .contacts .media div{
+    font-size: 25px;
+}
 /*Extra large devices (large desktops, 1200px and up)*/
 @media (min-width: 1200px) { 
     .jopTitle{
