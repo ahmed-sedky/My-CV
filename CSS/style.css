@@ -47,6 +47,9 @@ body{
     height: 200px;
     width: 60%;
 }
+.font li{
+    font-size: 30px;
+}
 hr{
     background-color: white;
 }
@@ -61,7 +64,7 @@ hr{
 }
 
 .education ul li{
-    font-size: 18px;
+    font-size: 30px;
 }
 .hr{
     height: 2px;
@@ -69,7 +72,7 @@ hr{
 }
 .tec ul li, .Askills, .experince, .Vexperince{
     line-height: 35px;
-    font-size: 18px;
+    font-size: 30px;
 }
 .progress{
     height: 23px;
@@ -170,9 +173,9 @@ hr{
     }
     .tec ul li{
         line-height: 35px;
-        font-size: 18px;
+        font-size: 25px;
     }
     .contacts ul li, .contacts .media div{
-        font-size: 18px;
+        font-size: 25px;
     }
 }
