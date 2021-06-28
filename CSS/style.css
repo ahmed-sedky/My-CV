@@ -14,7 +14,7 @@ body{
 }
 .info{
     background-color: #333333;
-    color: white;
+    /* color: white; */
 }
 .cvName{
     margin:40px;
@@ -37,9 +37,7 @@ body{
     font-size: 35px;
     margin-left: 20px;
 }
-.contacts h2{
-    margin-bottom: 40px;
-}
+
 .img{
     margin-top: 70px;
     margin-bottom: 70px;
@@ -56,14 +54,12 @@ hr{
     margin:15px;
 }
 .media a{
-    color: white;
+    color: black;
 }
 .reimg{
     border-radius: 5px;
 }
-.education{
-    margin-top: 100px;
-}
+
 .education ul li{
     font-size: 18px;
 }
